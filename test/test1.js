@@ -1,6 +1,3 @@
-const chai = window.chai;
-const expect = chai.expect;
-
 
 describe('Unit tests for Task1:',() => {
 
@@ -26,8 +23,6 @@ describe('Unit tests for Task1:',() => {
         it("Should return error not array", () => {
             expect(()=>{arraySum('table');}).to.throw("It is not an array!");
         });
-   
-
         it("Should return error array with string", () => {
             expect(()=>{arraySum([0,'a',1]);}).to.throw("It is not an array of numbers!");
         });

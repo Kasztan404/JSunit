@@ -12,14 +12,20 @@
     <script src="https://unpkg.com/chai/chai.js"></script>
     <script src="https://unpkg.com/mocha/mocha.js"></script>
 
-    <script src="task1/task1.js"></script>
+
+
     <script class="mocha-init">
       mocha.setup('bdd');
       mocha.checkLeaks();
     </script>
-        
-        <script src="task1/test1.js"></script>
-     <script class="mocha-exec">
+    <script src="tasks/task1.js"></script>
+    <script src="tasks/task2.js"></script>
+
+    <script src="test/tests.js"></script> 
+    <script src="test/test1.js"></script>    
+    <script src="test/test2.js"></script>
+
+    <script class="mocha-exec">
       mocha.run();
     </script>
   </body>

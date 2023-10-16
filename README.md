@@ -11,5 +11,5 @@ Open index.html in Your favorite browser
 task1.html Contains function arraySum, which add's all elements in array. <br>
 test1.html Contains unit tests for task1.html
 
-#Task 2 - in progres <br>
+#Task 2 <br>
 Write a function which return array of uniqe elements
