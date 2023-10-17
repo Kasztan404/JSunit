@@ -17,6 +17,9 @@ task2.html Contains function unique, which returns unique values of array. <br>
 test2.html Contains unit tests for task2.html<br>
 
 #Task 3 <br>
-Write a funchtion which return outer join of 2 arrays.<br>
+Write a function which return outer join of 2 arrays.<br>
 task2.html Contains function outerJoin, which returns outer join of 2 arrays. <br>
 test2.html Contains unit tests for task3.html<br>
+
+#Taks 4 <br>
+Write a function which return frequency of occurrence of an element in the array. <br>
