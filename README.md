@@ -21,5 +21,5 @@ Write a function which return outer join of 2 arrays.<br>
 task2.html Contains function outerJoin, which returns outer join of 2 arrays. <br>
 test2.html Contains unit tests for task3.html<br>
 
-#Taks 4 <br>
+#Task 4 <br>
 Write a function which return frequency of occurrence of an element in the array. <br>
